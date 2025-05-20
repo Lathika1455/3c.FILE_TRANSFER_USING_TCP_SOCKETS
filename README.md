@@ -56,10 +56,11 @@ while True:
 ## OUPUT
 CLIENT
 
-![Screenshot 2025-05-13 130916](https://github.com/user-attachments/assets/fdc6637b-c552-4282-b6ea-67465a652bf1)
+![image](https://github.com/user-attachments/assets/c14a5aaa-8dfa-4b62-b3bd-d3dbc16cd95a)
 
 SERVER
 
+![image](https://github.com/user-attachments/assets/32262b02-8d56-47a5-91d9-b986fa736216)
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
